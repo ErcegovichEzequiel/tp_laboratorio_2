@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1474686939 source:c:\users\usuario\desktop\facultad\tp_laboratorio_2\tp_laboratorio_2\funciones_ercegovich.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<windows.h>
+	<conio.h>
+	"imput.h"
+	"funciones_ercegovich.h"
+
+1474686340 c:\users\usuario\desktop\facultad\tp_laboratorio_2\tp_laboratorio_2\funciones.h
+
+1474686120 c:\users\usuario\desktop\facultad\tp_laboratorio_2\tp_laboratorio_2\funciones_ercegovich.h
+
+1474687070 source:c:\users\usuario\desktop\facultad\tp_laboratorio_2\tp_laboratorio_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"funciones_ercegovich.h"
+	"imput.h"
+
+1474686835 c:\users\usuario\desktop\facultad\tp_laboratorio_2\tp_laboratorio_2\imput.h
+
+1474687119 source:c:\users\usuario\desktop\facultad\tp_laboratorio_2\tp_laboratorio_2\imput.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<conio.h>
+	"imput.h"
+
